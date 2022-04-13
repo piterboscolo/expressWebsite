@@ -48,6 +48,7 @@ Full documentation is at jade-lang.com
 Jade is a high performance template engine heavily influenced by Haml and implemented with JavaScript for node and browsers. For bug reports, feature requests and questions, open an issue. For discussion join the chat room.
 
 ***Note***
+
 This package has been deprecated
 Author message:
 
